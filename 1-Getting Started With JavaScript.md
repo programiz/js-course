@@ -11,3 +11,4 @@ console.log("Hello, World");
 Hello, World
 ```
 The console.log() prints whatever object that is inside the parentheses `()`.
+
